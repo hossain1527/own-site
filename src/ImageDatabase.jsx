@@ -23,7 +23,7 @@ const ImageDatabase = [
   {
     imgSrc: img2,
     title: "My Responsive Web-Site",
-    aLink: "https://hossain1527.github.io/myNewSite/",
+    aLink: "https://hossain1527.github.io/own-site/",
     htmlImg: img7,
     cssImg: img8,
     reactImag: img9,
